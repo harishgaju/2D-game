@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 229d8c1d1b0aeb843a5765d940a35093
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93815
+  packageName: Zymmo's Adventure - Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Zymmo's Adventure/Scripts/PlayerController.cs
+  uploadId: 427801

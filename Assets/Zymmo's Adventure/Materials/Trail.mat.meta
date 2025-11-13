@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8dfcbcba71a72ec4a904e4fc5ea3732f
+timeCreated: 1498158503
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93815
+  packageName: Zymmo's Adventure - Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Zymmo's Adventure/Materials/Trail.mat
+  uploadId: 427801

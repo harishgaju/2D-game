@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 46276705017f1824fb3f31d600af090f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93815
+  packageName: Zymmo's Adventure - Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Zymmo's Adventure/Scripts/PlayerCamera.cs
+  uploadId: 427801

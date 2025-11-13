@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d3b413d843c1b246aa6e50565f0181b
+timeCreated: 1498156697
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93815
+  packageName: Zymmo's Adventure - Art Pack
+  packageVersion: 1.0
+  assetPath: Assets/Zymmo's Adventure/Animations/Lighting.anim
+  uploadId: 427801
